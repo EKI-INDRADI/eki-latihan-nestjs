@@ -98,6 +98,6 @@ Angular & NestJs - https://www.youtube.com/channel/UCTZMwW4pq_B-o_KkpCtotGw/play
 
 
 
-EKI INDRADI
+## EKI INDRADI
 
 "TIME > KNOWLEDGE > MONEY". #STILL_ONE_DIGIT
