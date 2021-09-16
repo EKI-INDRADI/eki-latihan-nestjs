@@ -81,11 +81,17 @@ Nest is [MIT licensed](LICENSE).
 ## REFERENSI :
 
 typescript - https://github.com/SastraNababan/bicara-typescript (thanks to @SastraNababan)
+
 typescript - https://www.youtube.com/playlist?list=PLwvMCa_o2Latn_BAqFBMbj2IwlqgfgnG8 
+
 typescript - https://github.com/nusendra/oop-with-typescript (thanks to @nusendra)
+
 typescript - https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ
+
 typescript - https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y
+
 Mongodb + NestJS(Express) + Angular + Nodejs - https://www.udemy.com/course/nestjs-angular (thanks to @Haider)
+
 Angular & NestJs - https://www.youtube.com/channel/UCTZMwW4pq_B-o_KkpCtotGw/playlists (thanks to Thomas Oliver)
 
 
