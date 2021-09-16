@@ -71,3 +71,33 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+
+## EKI NOTE :
+
+- framework ini menggunakan NestJS dengan request Fastify + ExpressJS keduanya saya di implementasi pada project ini, alasanya simple karena framework ini implementasinya lebih cepat, mudahnya validasi karena class validator, mudahnya membuat dokumentasi karena auto generate, sclable & optimize performance (cluster + fastify + child process) , backend progressive framework, MVC pattern , Angular Pattern
+
+referensi :
+
+typescript - https://github.com/SastraNababan/bicara-typescript (thanks to @SastraNababan)
+
+typescript - https://www.youtube.com/playlist?list=PLwvMCa_o2Latn_BAqFBMbj2IwlqgfgnG8 
+
+typescript - https://github.com/nusendra/oop-with-typescript (thanks to @nusendra)
+
+typescript - https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ
+
+typescript - https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y
+
+Mongodb + NestJS(Express) + Angular + Nodejs - https://www.udemy.com/course/nestjs-angular (thanks to @Haider)
+
+Angular & NestJs - https://www.youtube.com/channel/UCTZMwW4pq_B-o_KkpCtotGw/playlists (thanks to Thomas Oliver)
+
+
+
+
+
+EKI INDRADI
+
+"TIME > KNOWLEDGE > MONEY". #STILL_ONE_DIGIT
